@@ -1,11 +1,14 @@
+/*
 import org.junit.Assert;
 import org.junit.Test;
 
 import java.util.Arrays;
 
+*/
 /**
  * Created by damian on 17/08/16.
- */
+ *//*
+
 public class BorrarElementoTest {
     @Test
     public void borrarElemento() {
@@ -31,3 +34,4 @@ public class BorrarElementoTest {
 
     }
 }
+*/
