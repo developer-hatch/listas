@@ -12,6 +12,7 @@ public class CreacionDeWrapListTest {
     @Test
     public void crearMiListaDeNumeros(){
         List<Integer> lista = Arrays.asList(2, 3, 5, 6);
+
         MiLista<Integer> listaDeNumeros = new MiLista(lista);
 
         Assert.assertEquals(listaDeNumeros.lista, lista);
