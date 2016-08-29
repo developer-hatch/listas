@@ -4,17 +4,16 @@ import org.junit.Test;
 
 import java.util.Arrays;
 
-*/
-/**
- * Created by damian on 17/08/16.
- *//*
 
+ /* Created by damian on 17/08/16.
+ */
+/*
 public class BuscarElementoEnListaTest {
 
     @Test
-    public void existeNumero(){
+    public void existeNumero() {
 
-        MiLista lista = new MiLista(Arrays.asList(2,3,5,6));
+        MiLista lista = new MiLista(Arrays.asList(2, 3, 5, 6));
 
         Assert.assertTrue(lista.existeNumero(3));
         Assert.assertTrue(lista.existeNumero(2));
@@ -23,8 +22,8 @@ public class BuscarElementoEnListaTest {
         Assert.assertFalse(lista.existeNumero(8));
 
     }
-
-    @Test
+}
+/*    @Test
     public void existeString(){
 
         MiLista lista = new MiLista(Arrays.asList("hola", "3", "casa" ,"adios"));

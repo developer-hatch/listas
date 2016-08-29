@@ -3,10 +3,10 @@ import org.junit.Test;
 
 import java.util.Arrays;
 import java.util.List;
-
+/*
 /**
  * Created by damian on 18/08/16.
- */
+ */ /*
 public class CreacionDeWrapListTest {
 
     @Test
@@ -19,11 +19,12 @@ public class CreacionDeWrapListTest {
 
     }
 
-    /*@Test
-    public void crearMiListaDeNumeros(){
+    @Test
+    public void crearMiListaDeNumeroS(){
         List<String> lista = Arrays.asList("casa", "hola", "Chau");
         MiLista<String> listaDeNumeros = new MiLista(lista);
 
         Assert.assertEquals(listaDeNumeros.lista, lista);
-    }*/
+    }
 }
+*/
