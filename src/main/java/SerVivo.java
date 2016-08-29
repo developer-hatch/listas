@@ -8,7 +8,4 @@ public interface SerVivo {
 
     public void cumplirAños();
 
-    public void todosCumplimosAnios();
-
-
 }

@@ -50,7 +50,7 @@ public class SerVivoTest {
 
 
         Assert.assertEquals(edades, edadesCalculadas);
-    }*/
+    }
 
     @Test
     public void todosCumplimosAnios(){
@@ -74,4 +74,5 @@ public class SerVivoTest {
 
         Assert.assertEquals(44, resultadoDeSumarTodasLasEdades);
     }
+    */
 }
