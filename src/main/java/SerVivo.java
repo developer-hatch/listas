@@ -2,7 +2,9 @@
  * Created by alumno on 29/08/16.
  */
 public interface SerVivo {
-    int edad = 0;
+    public int edad();
 
-    void cumplirAños();
+    public void cumplirAños();
+
+
 }
